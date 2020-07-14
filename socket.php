@@ -38,4 +38,19 @@
         echo json_encode([
           "orders" => $orders
         ]);
+            
+        for ($i = 0; $i < count($orders); $i++) {
+          $setOrderViewed = $bdd->prepare("UPDATE sockets_engagements SET viewed = ? WHERE id = ?");
+          $setOrderViewed->bindValue(1, '1');
+          $setOrderViewed->bindValue(2, $orders[$i]['id']);
+          $setOrderViewed->execute();
+        }
+     } else {
+       echo json_encode([]);
+     }
+            
+     exit;
+  }else {*/
+    echo 'Cannot get' . parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) . '';
+?>
    
