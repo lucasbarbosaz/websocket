@@ -5,6 +5,6 @@
 <hr>
 
 <h2><b>Developers Contact</b>/<h2>
-  <<li>Wake-> Discord: Wake#8598</li>
+  <li>Wake-> Discord: Wake#8598</li>
   <li>Laxus-> Discord: laxus#0020</li>
   <li>Dut-> Discord: Dut#7070</li>
