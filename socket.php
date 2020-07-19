@@ -1,4 +1,5 @@
 <?php
+//by Wake, Laxus and Dut
   if(!isset($_SESSION)){
     session_start();
   }
