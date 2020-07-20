@@ -6,7 +6,7 @@
 
 
 <h2>Included Commands</h2>
-<p>This socket is coming with included commands as an event alert, mention and roomvideo.</p>
+<h3>This socket is coming with included commands as an event alert, mention and roomvideo.</h3>
 
 <h2><b>Developers Contact</b>/<h2>
   <li>Wake-> Discord: Wake#8598</li>
