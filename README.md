@@ -13,5 +13,11 @@
   <li>Laxus-> Discord: laxus#0020, <a href="https://github.com/TheLaxus/">GitHub</a></li>
   <li>Dut-> Discord: Dut#7070</li>
   <hr>
-  
-  Thanks bro ;)
+
+<h2>Debug</h2>
+<p><b>:eha</b> Command => https://i.imgur.com/6bVDHiX.mp4</p>
+<p><b>@mention</b> Command => https://i.imgur.com/SJZ7YIe.png</p>
+<p><b>:roomvideo</b> Command => https://i.imgur.com/OAygI8b.png</p>
+<hr>
+
+thnx bro ;)
