@@ -10,5 +10,8 @@
 
 <h2><b>Developers Contact</b>/<h2>
   <li>Wake-> Discord: Wake#8598, <a href="https://github.com/WakeGG/">GitHub</a></li>
-  <li>Laxus-> Discord: laxus#0020</li>
+  <li>Laxus-> Discord: laxus#0020, <a href="https://github.com/TheLaxus/">GitHub</a></li>
   <li>Dut-> Discord: Dut#7070</li>
+  <hr>
+  
+  Thnx bro ;)
