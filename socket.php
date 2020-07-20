@@ -25,7 +25,7 @@
       
       $consultSockets = $bdd->prepare("SELECT id,action,type,hash,label FROM sockets_engagements WHERE viewed = ? AND hash = ?");
       $consultSockets->bindValue(1, '0');
-      $consultSockets->2, $user['id']);
+      $consultSockets->bindValue(2, $user['id']);
       $consultSockets->execute();
       
       if($consultSockets->rowCount() > 0) {
