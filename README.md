@@ -1,4 +1,5 @@
 # AstroSocket
+<p>The socket made for Arcturus and Comet emulator.</p>
 <hr>
 <h2>Socket for Arcturus/Comet Emulator</h2>
 <p>Created by: Wake, Laxus & Dut.</p>
