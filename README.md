@@ -1,7 +1,7 @@
 # AstroSocket
 <hr>
 <h2>Socket for Arcturus/Comet Emulator</h2>
-<h3>Created by: Wake, Laxus & Dut.</h3>
+<p>Created by: Wake, Laxus & Dut.</p>
 <hr>
 
 <h2>Included Commands</h2>
