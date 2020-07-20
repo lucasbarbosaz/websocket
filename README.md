@@ -14,4 +14,4 @@
   <li>Dut-> Discord: Dut#7070</li>
   <hr>
   
-  Thnx bro ;)
+  Thanks bro ;)
